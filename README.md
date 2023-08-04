@@ -1,1 +1,1 @@
-All the labs I did as a part of creating the library database # Library-database
+Utilized relational database management system Oracle and data language SQL for running a user-friendly library system # Library-database
