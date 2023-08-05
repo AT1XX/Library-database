@@ -1,4 +1,6 @@
-Utilized relational database management system Oracle and data language SQL for running a user-friendly library system # Library-database
+# Library-database
+
+Utilized relational database management system Oracle and data language SQL for running a user-friendly library system 
 
 To install the required libraries, type in terminal:
 `pip install -r requirements.txt`
